@@ -12,7 +12,7 @@ curl "https://version.func.dongfg.com/github?repo=dani-garcia/vaultwarden&prerel
 ### Get Latest NPM Package
 ```shell
 # pkg: npm package name
-curl "https://version.func.dongfg."
+curl "https://version.func.dongfg.com/npm?pkg=qs"
 
 {"data":"6.11.2","msg":"success","timestamp":1701490585}
 ```
