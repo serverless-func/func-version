@@ -5,7 +5,7 @@ go 1.24.1
 require (
 	github.com/gin-gonic/gin v1.11.0
 	github.com/go-resty/resty/v2 v2.17.2
-	github.com/samber/lo v1.52.0
+	github.com/samber/lo v1.53.0
 )
 
 require (
